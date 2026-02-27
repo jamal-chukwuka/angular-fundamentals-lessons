@@ -31,7 +31,7 @@ import { Car } from '../car';
           </p>
         </section>
       </article> 
-      <button (click)="handleCarSaved()"></button> `
+      <button (click)="handleCarSaved()">Click Me</button> `
       ,
   styles: ``,
 })
